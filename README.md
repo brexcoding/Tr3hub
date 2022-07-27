@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Tr3hub
+- 👀 I’m interested in coding with python...
+- 🌱 I’m currently learning how to build a trading bot ...
+- 💞️ I’m looking to collaborate to develope  trading bot or just  gain experience with someone who is begginer just like me
+- ...
+- 📫 How to reach me 
+- discord     Houari 33
+-  ...
+
+<!---
+Tr3hub/Tr3hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
