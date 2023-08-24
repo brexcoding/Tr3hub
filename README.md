@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Tr3hub
-- 👀 I’m interested in coding with python..
-- 📫 How to reach me 
-- discord     Houari 33
+
 -  ...
 
 <!---
